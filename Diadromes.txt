@@ -1,0 +1,3 @@
+Milan Paris 800 300
+Berlin NY 1500 200
+Madagascar Madrid 500 1000
